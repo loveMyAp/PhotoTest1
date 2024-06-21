@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'This term is similar to "Image Picker" and is often used interchangeably. It emphasizes the selection of photos rather than just generic images.'
 
-  s.homepage         = 'https://github.com/17621067516/PhotoTest1'
+  s.homepage         = 'https://github.com/loveMyAp/PhotoTest1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '17621067516' => '17621067516@163.com' }
-  s.source           = { :git => 'https://github.com/17621067516/PhotoTest1.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/loveMyAp/PhotoTest1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

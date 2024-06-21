@@ -1,0 +1,16 @@
+PODS:
+  - PhotoTest1 (0.1.0)
+
+DEPENDENCIES:
+  - PhotoTest1 (from `../`)
+
+EXTERNAL SOURCES:
+  PhotoTest1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PhotoTest1: f75f82176c827f7e490c0704ea0ae6f2a84449a4
+
+PODFILE CHECKSUM: ed8d053179e2a64752232c52ff4e15da9fe104f7
+
+COCOAPODS: 1.15.2
